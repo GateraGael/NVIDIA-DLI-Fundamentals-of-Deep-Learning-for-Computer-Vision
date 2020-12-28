@@ -49,7 +49,7 @@ A loop on top that looks like a hook and a half circle and a loop at the bottom 
 
 # Deep Neural Networks: GPU Task 1
 
-The purpose of this task is to introduce the student to the [DIGITS](https://developer.nvidia.com/digits) envIrnment that does not require knowledge of code.
+The purpose of this task is to introduce the student to the [DIGITS](https://developer.nvidia.com/digits) environment that does not require knowledge of code.
 The environment is loaded and task is started with a play buttom that takes to a jupyter notebook with more instructions.
 
 
