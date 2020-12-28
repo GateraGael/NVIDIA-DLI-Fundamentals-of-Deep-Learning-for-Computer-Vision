@@ -65,7 +65,7 @@ The environment is loaded and task is started with a play buttom that takes to a
 
 # Big Data: GPU Task 2
 
-Purpose of this section to to explain that in machine learning, experience comes in the form of data. The task in this section applies a large dataset to the classification problem to create a model that works on new data, a requirement that reduces overfitting. Essentially training the neural network as a teacher would a student to learn higher-level concepts vs. memorizing examples. 
+Purpose of this section to to explain that in machine learning, experience comes in the form of data. The task in this section applies a large dataset to the classification problem to create a model that is also able to predict on a validation dataset, a requirement that reduces overfitting. The best analogy to this is that training one would train a neural network as a teacher would a student to learn higher-level concepts vs. memorizing examples. 
 
 
 
