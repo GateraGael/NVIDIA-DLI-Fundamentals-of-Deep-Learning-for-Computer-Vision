@@ -49,7 +49,11 @@ A loop on top that looks like a hook and a half circle and a loop at the bottom 
 
 # Deep Neural Networks: GPU Task 1
 
-The purpose of this task is to introduce the student to the [DIGITS](https://developer.nvidia.com/digits) environment that does not require knowledge of code.
+The purpose of this task is to introduce the student to the [DIGITS](https://developer.nvidia.com/digits) environment that does not require knowledge of code while introducing concepts of image classification.
 The environment is loaded and task is started with a play buttom that takes to a jupyter notebook with more instructions.
+
+1. Student chooses a dataset of Images of Beagles contains 8 labeled images of Louie and 8 labeled images of other dogs.
+
+2. Next, student chooses AlexNet is architected after the human visual cortex and has won the largest image recognition challenge in the world, ImageNet. Access to high-performing networks like AlexNet remove the requirement that every deep learning practitioner understands the structure of the brain and instead can focus on training.
 
 
