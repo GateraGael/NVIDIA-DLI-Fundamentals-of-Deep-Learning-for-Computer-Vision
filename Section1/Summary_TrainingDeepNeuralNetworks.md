@@ -59,4 +59,8 @@ The environment is loaded and task is started with a play buttom that takes to a
 
 2. Next, student chooses AlexNet is architected after the human visual cortex and has won the largest image recognition challenge in the world, ImageNet. Access to high-performing networks like AlexNet remove the requirement that every deep learning practitioner understands the structure of the brain and instead can focus on training.
 
+3. Student runs the model with only one epoch proceeding to making a single predictions resulting in a probability of Louie being accurately 50.29% predicted while not Louie being predicted 49.71%.
+
+4. Student increases the number of epochs to 100 then the accuracy of that same image correctly predicting Louie increasing to 100 %.
+
 
