@@ -8,6 +8,8 @@ The course then challenges students to classifiy a handwritten "2"
 1. Using pseudo-code
 2. To a 2 year old just learning about numbers
 
+![](../images/challeng.png)
+
 My answers here:
 #### Pseudo Code
 
