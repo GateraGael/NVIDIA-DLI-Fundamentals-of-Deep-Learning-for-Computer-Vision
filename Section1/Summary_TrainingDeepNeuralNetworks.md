@@ -63,4 +63,9 @@ The environment is loaded and task is started with a play buttom that takes to a
 
 4. Student increases the number of epochs to 100 then the accuracy of that same image correctly predicting Louie increasing to 100 %.
 
+# Big Data: GPU Task 2
+
+Purpose of this section to to explain that in machine learning, experience comes in the form of data. The task in this section applies a large dataset to the classification problem to create a model that works on new data, a requirement that reduces overfitting. Essentially training the neural network as a teacher would a student to learn higher-level concepts vs. memorizing examples. 
+
+
 
