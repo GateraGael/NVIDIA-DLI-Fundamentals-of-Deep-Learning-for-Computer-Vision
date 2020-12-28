@@ -52,7 +52,7 @@ A loop on top that looks like a hook and a half circle and a loop at the bottom 
 The purpose of this task is to introduce the student to the [DIGITS](https://developer.nvidia.com/digits) environment that does not require knowledge of code while introducing concepts of image classification.
 The environment is loaded and task is started with a play buttom that takes to a jupyter notebook with more instructions.
 
-[](../images/Intro Digits.png)
+[](../images/IntroDigits.png)
 
 
 1. Student chooses a dataset of Images of Beagles contains 8 labeled images of Louie and 8 labeled images of other dogs.
