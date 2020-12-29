@@ -11,6 +11,7 @@ The following points are made using pre trained models to teach the concepts:
 Futhermore, that four aspects of the Neural Nets can manipulate to improve performance. 
 
 **1) Data** - A large and diverse enough dataset to represent the environment where our model should work. Data curation is an art form in itself.
+
 **2) Hyperparameters** - Making changes to options like learning rate are like changing your training "style." Currently, finding the right hyperparameters is a manual process learned through experimentation. As you build intuition about what types of jobs respond well to what hyperparameters, your performance will increase.
 
 **3) Training time** - More epochs improve performance to a point. At some point, too much training will result in overfitting (humans are guilty of this too), so this can not be the only intervention you apply.
