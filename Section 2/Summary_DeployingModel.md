@@ -4,3 +4,5 @@ Continuing with the theme of using animals to teach applications of computer vis
 Here is the full scenario:
 
 "Louie wants to be able to enter and exit his house without requiring a person to let him in. His roommate, a cat named Nala, hunts, and therefore sometimes brings her catch with her. Nala needs to be checked at the door. The solution: We just trained a neural network model to classify dogs from cats. In this next section, you'll deploy that trained model into a simulator."
+
+![](../images/deployment.png)
