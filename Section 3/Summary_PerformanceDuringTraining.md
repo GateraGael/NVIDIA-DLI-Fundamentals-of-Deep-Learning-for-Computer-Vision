@@ -17,3 +17,25 @@ Futhermore, that four aspects of the Neural Nets can manipulate to improve perfo
 **3) Training time** - More epochs improve performance to a point. At some point, too much training will result in overfitting (humans are guilty of this too), so this can not be the only intervention you apply.
 
 **4) Network architecture** - We'll begin to experiment with network architecture in the next section. This is listed as the last intervention to push back against a false myth that to engage in solving problems with deep learning, people need mastery of network architecture. This field is fascinating and powerful, and improving your skills is a study in math.
+
+# Object Detection: GPU Task 5
+
+This section of the course introduce the most commonly used input/output pairings in computer vision problems and labels their corresponding workflows.
+Summed up in the table below:
+
+| Workflow             | Input                                                 | Output                                                                                                                             |
+|----------------------|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Image Classification | Raw Pixel Values                                      | A vector where each index corresponds with the likelihood or the image of belonging to each class                                  |
+| Object Detection     | Raw Pixel Values                                      | A vector with (X,Y) pairings for the top-left and bottom-right corner of each object present in the image                          |
+| Image Segmentation   | Raw Pixel Values                                      | A overlay of the image for each class being segmentation, where each value is the likelihood of that pixel belonging to each class |
+| Text Generation      | A unique vector for each 'token' (word, letter, etc.) | A vector representing the most likely next 'taken'                                                                                 |
+| Image Rendering      | Raw Pixel Values of a grainy Image                    | Raw pixel values of a clean image                                                                                                  |
+
+
+Visualized below:
+
+![Computer Vision Tasks](images/ComputerVisionTasks_summary.JPG)
+
+
+
+
