@@ -47,4 +47,7 @@ ready_image = input_image-mean_image
 
 4. Deployment
 
-My edited version of the given [WorkFlow Summary](../images/ModelParts.png)
+My edited version of the given [pythondeployment.py](pythondeployment.py)
+
+
+![WorkFlow Summary](../images/ModelParts.png)
