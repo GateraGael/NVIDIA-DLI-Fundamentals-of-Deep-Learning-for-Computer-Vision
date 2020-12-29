@@ -65,7 +65,10 @@ The environment is loaded and task is started with a play buttom that takes to a
 
 # Big Data: GPU Task 2
 
-Purpose of this section to to explain that in machine learning, experience comes in the form of data. The task in this section applies a large dataset to the classification problem to create a model that is also able to predict on a validation dataset, a requirement that reduces overfitting. The best analogy to this is that training one would train a neural network as a teacher would a student to learn higher-level concepts vs. memorizing examples. 
+Purpose of this section to to explain that in machine learning, experience comes in the form of data. The task in this section applies a large dataset to the classification problem to create a model that is also able to predict on a validation dataset, a requirement that reduces overfitting. 
+In this case a folder was created with images with dogs called "dogs," and a folder of images with cats called "cats." Those folders into another folder called "dogscats". DIGITS recognized that there were two folders, so concluded that there were 2 classes. 
+The same AlexNet was used again and was able to correctly classify Louie as a dog. The power of our trained model is that it can now classify unlabeled images.
+The best analogy to this is that training one would train a neural network as a teacher would a student to learn higher-level concepts vs. memorizing examples. 
 
 
 
