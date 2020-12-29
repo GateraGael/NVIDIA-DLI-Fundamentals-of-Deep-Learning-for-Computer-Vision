@@ -53,11 +53,11 @@ Needs Human supervision, slow - constrained by image size.
 
 Quoting directly from slide: "Since layers a mathematical operations on tensors (Matrics, Vectors, etc.) Layers are combined to describe the architecture of a neural network modifications to network architecture of a neural network modifications to network architecture impact capability and performance. Each Frameowkr has different syntax for describing architectures. Regardless of framework: The output of each layer must fit the input of the next layer."
 
+At this point the AlexNet gets turned into a "Fully Convolutional Network" and continue to introduce Convolution Neural Network Architectures.
 
 ## Approach 3 - Identify similar solutions
 * Study existing solutions to implement new functionality
-
-
+In this approach, the course teaches students to find existing research that is similar to the problem statement they are trying to solve and tweak as much as possible depending on the desired output. Fo instance they introduce another famous Neural Network called **DetectNet** which is more fitting for object detection than the first explored network **AlexNet**. 
 
 
 
