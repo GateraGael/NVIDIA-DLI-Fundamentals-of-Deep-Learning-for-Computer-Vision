@@ -37,5 +37,28 @@ Visualized below:
 ![](../images/computer_vision_tasks.PNG)
 
 
+In order to add functionality and map the given inputs to desired outputs this course gives three different approached:
+
+## Approach 1 - Combining DL with programming
+* Scaling models programmatically to create new functionality using the sliding windown approach.
+
+** Advantages **
+In a dog/ 'not dog' classifier, the sliding window with non-overlapping grid squares means that it is very likely that some of our grid squares will only partially contain a dog and this can lead to misclassifications. However, as we increase the overlap in the grid squares we will rapidly increase the computation time for this sliding window approach. We can make up for this increase in computation by batching inputs, a strategy that takes advantage of the GPU's intrinsic strength of parallel processing.
+
+** Disadvantages **
+Needs Human supervision, slow - constrained by image size.
+
+## Approach 2 - Experiment with network architecture
+* Study the math of neural networks to create new functionality
+
+Quoting directly from slide: "Since layers a mathematical operations on tensors (Matrics, Vectors, etc.) Layers are combined to describe the architecture of a neural network modifications to network architecture of a neural network modifications to network architecture impact capability and performance. Each Frameowkr has different syntax for describing architectures. Regardless of framework: The output of each layer must fit the input of the next layer."
+
+
+## Approach 3 - Identify similar solutions
+* Study existing solutions to implement new functionality
+
+
+
+
 
 
