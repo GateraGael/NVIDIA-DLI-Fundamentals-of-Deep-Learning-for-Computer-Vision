@@ -34,7 +34,7 @@ Summed up in the table below:
 
 Visualized below:
 
-![](images/computer_vision_tasks.PNG)
+![](../images/computer_vision_tasks.PNG)
 
 
 
