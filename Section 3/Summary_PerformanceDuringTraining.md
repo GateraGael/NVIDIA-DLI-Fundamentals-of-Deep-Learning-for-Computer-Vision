@@ -34,7 +34,7 @@ Summed up in the table below:
 
 Visualized below:
 
-![Computer Vision Tasks](images/ComputerVisionTasks_summary.JPG)
+![Computer Vision Tasks](images/computer_vision_tasks.PNG)
 
 
 
