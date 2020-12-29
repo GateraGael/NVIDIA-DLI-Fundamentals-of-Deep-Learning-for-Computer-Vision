@@ -60,6 +60,6 @@ At this point the AlexNet gets turned into a "Fully Convolutional Network" and c
 
 In this approach, the course teaches students to find existing research that is similar to the problem statement they are trying to solve and tweak as much as possible depending on the desired output. Fo instance they introduce another famous Neural Network called **DetectNet** which is more fitting for object detection than the first explored network **AlexNet**. 
 
-
+![](../images/DetectNet.PNG)
 
 
